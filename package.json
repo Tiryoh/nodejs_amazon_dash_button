@@ -1,8 +1,8 @@
 {
   "name": "amazon_dash_button",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simple script to detect Amazon Dash Button",
+  "main": "app.js",
   "scripts": {
     "scan": "dash-button scan"
   },
