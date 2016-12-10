@@ -1,0 +1,14 @@
+{
+  "name": "amazon_dash_button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scan": "dash-button scan"
+  },
+  "author": "Tiryoh",
+  "license": "MIT",
+  "dependencies": {
+    "dash-button": "^2.0.1"
+  }
+}
